@@ -313,7 +313,7 @@ new AsyncTask<String,Integer,Boolean>() {
 
 # <a name="head-digest"></a>Дайджест интересностей
 * В штате Мичиган полностью [легализованы беспилотные автомобили](http://www.furfur.me/furfur/changes/changes/219607-michigan).
-А вот в Калифорнии на беспилотном такси по промокодам (шутка) покататься не дали, видимо, из-за ]местной бюрократии](https://vc.ru/n/uber-california-self-stop). А [тут](https://vk.com/video43796590_456239403) можно посмотреть, как автопилот Tesla проехался по Москве.
+А вот в Калифорнии на беспилотном такси по промокодам (шутка) покататься не дали, видимо, из-за [местной бюрократии](https://vc.ru/n/uber-california-self-stop). А [тут](https://vk.com/video43796590_456239403) можно посмотреть, как автопилот Tesla проехался по Москве.
 
 * Во Франции уже [дронами доставляют почту](http://www.furfur.me/furfur/changes/changes/219705-drones), а в Китае [на дронах уже летают люди](https://tjournal.ru/39424-kitaici-pokazali-ispitaniya-bespilotnogo-taksi).
 
