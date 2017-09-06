@@ -4,6 +4,7 @@ GEM
     addressable (2.4.0)
     colorator (1.1.0)
     ffi (1.9.14)
+    ffi (1.9.14-x64-mingw32)
     ffi (1.9.14-x86-mingw32)
     forwardable-extended (2.6.0)
     jekyll (3.3.1)
@@ -23,7 +24,6 @@ GEM
       sass (~> 3.2)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
-    json (1.8.3)
     kramdown (1.11.1)
     liquid (3.0.6)
     listen (3.0.6)
@@ -42,16 +42,16 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
   x86-mingw32
 
 DEPENDENCIES
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
-  json
   minima (~> 2.0)
 
 RUBY VERSION
-   ruby 2.3.1p112
+   ruby 2.4.1p111
 
 BUNDLED WITH
-   1.13.6
+   1.15.4
