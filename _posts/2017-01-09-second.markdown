@@ -296,7 +296,7 @@ new AsyncTask<String,Integer,Boolean>() {
 * [наркозависимость](http://www.km.ru/zdorove/2013/04/04/otkrytiya-v-oblasti-meditsiny-i-zdorovya/707677-kokainovuyu-zavisimost-vylechat-m)
 * [восстановление утерянных воспоминаний](http://hitech.newsru.com/article/02dec2016/memories)
 * [искусcтвенное включение и выключение полового влечения](http://www.mk.ru/science/2016/12/07/obnaruzhen-sposob-iskusctvenno-vklyuchat-i-vyklyuchat-polovoe-vlechenie.html)
-* [депрессия](http://medportal.ru/mednovosti/news/2008/10/13/depression/)
+* [облегчение](https://nplus1.ru/news/2019/03/12/tacs-v-mdd) [депрессии](http://medportal.ru/mednovosti/news/2008/10/13/depression/)
 * [паралич конечностей](http://hi-news.ru/technology/ekzoskelet-i-elektricheskaya-stimulyaciya-vozvrashhayut-vozmozhnost-xodit.html)
 
 
